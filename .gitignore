@@ -134,3 +134,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Added manually
+.env.*.local
+.idea/
+*.iml
+*.xml
+dist/
+build/
+.vscode/
